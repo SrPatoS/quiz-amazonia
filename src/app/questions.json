@@ -1,0 +1,13 @@
+[
+    {
+      "image": "https://placekitten.com/400/300",
+      "options": ["Cachorro", "Gato", "Pássaro", "Peixe"],
+      "answer": "Gato"
+    },
+    {
+      "image": "https://placebear.com/400/300",
+      "options": ["Urso", "Cavalo", "Rato", "Elefante"],
+      "answer": "Urso"
+    }
+  ]
+  
